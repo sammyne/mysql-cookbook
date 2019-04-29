@@ -23,6 +23,7 @@
 ## Progress
 
 - [x] Chapter01 - Using the mysql Client Program
+- [ ] Chapter02 - Writing MySQL-Based Programs
 
 # References
 

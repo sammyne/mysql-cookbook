@@ -33,3 +33,10 @@
 
 # companion stuff
 3rd_party/recipes
+
+# VS Code 
+.vscode/
+
+# docker stuff
+datadir/
+playground/
