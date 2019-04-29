@@ -24,4 +24,8 @@ func main() {
 	}()
 
 	fmt.Println("Connected")
+
+	if err := db.Ping(); nil != err {
+		panic(err)
+	}
 }
